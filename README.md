@@ -6,7 +6,7 @@ This project is called "Gestion Stagiaires" and is built using Laravel and Tailw
 
 To get started with this project, follow these steps:
 
-1. Clone the repository using the command `git clone https://github.com/your-username/gestion-stagiaires.git`.
+1. Clone the repository using the command `git remote add origin https://github.com/salahelfatimi/Gestion-Stagiaires.git`.
 2. Install the dependencies by running `composer install` and `npm install` in your terminal or command prompt.
 3. Create a new database and configure your database credentials in the `.env` file.
 4. Migrate the database by running `php artisan migrate`.
@@ -35,7 +35,7 @@ This project was built using the following technologies:
 If you want to contribute to this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch with your changes using the command `git checkout -b git remote add origin https://github.com/salahelfatimi/Gestion-Stagiaires.git
+2. Create a new branch with your changes using the command `git checkout -b git remote add origin git remote add origin https://github.com/salahelfatimi/GestionStagiaires.git`.
 
 3. Make your changes and commit them using `git commit -m "Brief description of your changes"`.
 4. Push your changes to your branch using `git push origin your-branch-name`.
