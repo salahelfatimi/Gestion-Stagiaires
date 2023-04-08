@@ -35,7 +35,7 @@ This project was built using the following technologies:
 If you want to contribute to this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch with your changes using the command `git checkout -b git remote add origin git remote add origin https://github.com/salahelfatimi/GestionStagiaires.git`.
+2. Create a new branch with your changes using the command ``git checkout -b https://github.com/salahelfatimi/GestionStagiaires.git`.
 
 3. Make your changes and commit them using `git commit -m "Brief description of your changes"`.
 4. Push your changes to your branch using `git push origin your-branch-name`.
